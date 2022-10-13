@@ -36,6 +36,16 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "tomato soup",
+      "ingredients": [
+        "tomato",
+        "water"
+      ],
+      "method": "Butter – use unsalted butter to sautee onions\nYellow onion – it seems like a ton of onion but it dissapears into the soup adding a balanced sweetness\nGarlic – you’ll need 1 Tbsp minced from about 3 cloves\nCrushed tomatoes – with their juice, preferably San Marzano tomatoes\nChicken stock – for the best flavor use homemade chicken broth\nBasil – chop and add 1/4 cup fresh basil, plus more to serve. Basil leaves are easily bruised so chop by stacking a bunch of leaves then roll them into a log and cut into thin strips.",
+      "cookingTime": "60 minutes",
+      "id": "byEwXX1"
     }
   ]
 }
